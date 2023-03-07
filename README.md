@@ -13,7 +13,10 @@ Os seguintes pontos serão considerados para uma boa avaliação do seu projeto.
 - Código limpo
 - Respeito as boas práticas de programação
 - Uso de testes unitários
+- Utilizar obrigatoriamente MS SQL Server 
 - Utilização de WinForms
 - Utilização de ReportViewer
-- Utilização do Entity Framework como ferramenta ORM
+- Utilização do Entity Framework como ferramenta ORM, com LINQ
+- Validação de campos e botões
 - Versionamento de código
+- Deixar de forma que possa ser compilado pela equipe
